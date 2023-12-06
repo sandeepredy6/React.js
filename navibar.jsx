@@ -1,5 +1,5 @@
-import React,{Component} from "react";
-const navibar = () => {
+import React,{ Component } from "react";
+const Navibar = () => {
 return (
 
 <ul>
@@ -25,4 +25,4 @@ return (
 );
 
 }
-export  default navibar;
+export  default Navibar;
